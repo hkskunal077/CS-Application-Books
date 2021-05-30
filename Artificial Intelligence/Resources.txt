@@ -1,0 +1,74 @@
+UC Berkley AI Course, Complete Series
+http://ai.berkeley.edu/home.html
+
+AI is the collection of differnet sub-fields
+It is a collection, you can choose
+
+AI research areas
+https://medium.com/ai-tale/hot-subtopics-in-ai-research-1f1face060be
+
+
+
+
+========== Stage 1 ==========
+
+-Theory: 
+Linear Algebra, Statistics, Theory of Probability (any courses/books will work)
+
+-Practice: 
+Basic Python skills, NumPy
+
+========== Stage 2 ==========
+
+-Theory: 
+Online courses / books on ML and Deep Learning;
+Machine Learning course by Andrew Ng, Coursera;
+Deep Learning Book, Ian Goodfellow;
+Stanford CS231n course;
+Recent MIT course: http://introtodeeplearning.com/;
+
+https://www.fast.ai/
+
+
+-Practice: 
+Pandas, PyTorch, Tensorflow and "official" tutorials (form their websites)
+
+========== Stage 3 ==========
+
+-Theory: 
+"Classic" papers, e.g. AlexNet, ResNet, BERT;
+Reading lists: 
+http://deeplearning.net/reading-list/
+
+https://github.com/ujjwalkarn/Machine...
+
+https://github.com/floodsung/Deep-Lea...
+
+MILA reading list: https://docs.google.com/document/d/1I...
+
+Andrej Karpathy's blog: http://karpathy.github.io/
+
+
+-Practice: 
+Random tutorials on the internet, Advanced tutorials, replicating papers
+
+========== Stage 4 ==========
+
+-Theory: 
+New paper on your topic, conferences, ArXiv, mailing lists and news channels;
+ https://distill.pub/;
+
+Sebastian Rudder: http://newsletter.ruder.io/
+ ;
+THE BATCH: https://www.deeplearning.ai/thebatch/
+ 
+
+-Practice: 
+Working on toy-projects;
+Contributing to open-source projects;
+Getting an internship;
+Trying to get hands-on experience in any way possible
+
+========= Never Stop =========
+
+These all will be usefull for anyone, engineer or researcher. Also try to concentrate on one particular topic and get an expert in it first, it will be much easier to accomplish and will open you opportunities right away. Don't try to become an expert in everything and also do not neglect "not prestigious" experience. Any experience is very valuable. 
